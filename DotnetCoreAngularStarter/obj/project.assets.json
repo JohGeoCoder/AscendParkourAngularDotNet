@@ -9667,9 +9667,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Storage\\V\\AscendParkourLinux\\DotnetCoreAngularStarter\\DotnetCoreAngularStarter.csproj",
-      "projectName": "DotnetCoreAngularStarter",
-      "projectPath": "D:\\Storage\\V\\AscendParkourLinux\\DotnetCoreAngularStarter\\DotnetCoreAngularStarter.csproj",
+      "projectUniqueName": "D:\\Storage\\V\\AscendParkourLinux\\DotnetCoreAngularStarter\\AscendParkour.csproj",
+      "projectName": "AscendParkour",
+      "projectPath": "D:\\Storage\\V\\AscendParkourLinux\\DotnetCoreAngularStarter\\AscendParkour.csproj",
       "outputPath": "D:\\Storage\\V\\AscendParkourLinux\\DotnetCoreAngularStarter\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
